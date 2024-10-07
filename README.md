@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanesh Gore</h1>
 <h3 align="center">Welcome</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"
-
-- 🔭 I’m currently working on [Sallagar.com](https://github.com/DhaneshGore/Sallagar.com)
+  
 - 🌱 I’m currently learning **Web and Visualization.**
 - 📫 You can reach me with email- **dhanesh9765@gmail.com**
 - ⚡Annual Planing: **Trying to keep exercising, reading and coding personal toolbox.**
