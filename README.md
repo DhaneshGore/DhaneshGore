@@ -1,30 +1,25 @@
 <h1 align="center">👋 Hi, I'm Dhanesh Gore</h1>
-<h3 align="center">🌟 Welcome to my profile!</h3>
+<h3 align="center">Welcome to my profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="center">
-  <em>“Innovation is the ability to see change as an opportunity - not a threat.”</em>
-</p>
+---
+
+### 🌱 Currently Learning:
+**Web Development & Data Visualization**
+
+### 📫 Get in Touch:
+- **Email:** [dhanesh9765@gmail.com](mailto:dhanesh9765@gmail.com)
+
+### ⚡ My Goals:
+**Balancing exercise, reading, and enhancing my coding skills!**
 
 ---
 
-- 🌱 I’m currently diving deeper into **Web Development** and **Data Visualization**.
-- 📫 Feel free to reach out via email: **[dhanesh9765@gmail.com](mailto:dhanesh9765@gmail.com)**
-- ⚡ **Annual Plan**: Focusing on exercise, reading, and continuously enhancing my coding toolbox.
-
----
-
-<h3 align="left">📬 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhaneshgore" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/dhaneshanirudhgore" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://instagram.com/dhanush_gore_patil" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/dhaneshgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/dhaneshanirudhgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://instagram.com/dhanush_gore_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -47,21 +42,11 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshgore&show_icons=true&locale=en&layout=compact" alt="dhaneshgore" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhaneshgore&show_icons=true&theme=radical" alt="Dhanesh Gore's GitHub Stats" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshgore&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 ---
-
-<p align="center">
-  <em>“Let's connect and explore the world of technology together!”</em>
-</p>
