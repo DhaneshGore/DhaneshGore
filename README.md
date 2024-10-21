@@ -1,17 +1,23 @@
-<h1 align="center">👋 Hi, I'm Dhanesh Gore</h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h1 align="center" style="text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">👋 Hi, I'm Dhanesh Gore</h1>
+<h3 align="center" style="text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Welcome to my profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ---
 
-### 🌱 Currently Learning:
-**Web Development & Data Visualization**
+<div align="center" style="background: linear-gradient(135deg, #a1c4fd, #c2e9fb); padding: 20px; border-radius: 10px;">
+    <h2 style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">🌱 Currently Learning:</h2>
+    <p><strong>Web Development & Data Visualization</strong></p>
+</div>
 
-### 📫 Get in Touch:
-- **Email:** [dhanesh9765@gmail.com](mailto:dhanesh9765@gmail.com)
+<div align="center" style="background: linear-gradient(135deg, #fdc830, #f37335); padding: 20px; border-radius: 10px;">
+    <h2 style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">📫 Get in Touch:</h2>
+    <p>Email: <a href="mailto:dhanesh9765@gmail.com">dhanesh9765@gmail.com</a></p>
+</div>
 
-### ⚡ My Goals:
-**Balancing exercise, reading, and enhancing my coding skills!**
+<div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
+    <h2 style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">⚡ My Goals:</h2>
+    <p><strong>Balancing exercise, reading, and enhancing my coding skills!</strong></p>
+</div>
 
 ---
 
@@ -24,7 +30,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left" style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -47,6 +53,6 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshgore&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center" style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshgore&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 ---
