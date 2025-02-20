@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently diving deeper into **Web Development** and **Data Visualization**.
+- 🌱 I’m currently diving deeper into **Artificial Intelligence** and **Data Visualization**.
 - 📫 Feel free to reach out via email: **[dhanesh9765@gmail.com](mailto:dhanesh9765@gmail.com)**
 - ⚡ **Annual Plan**: Focusing on exercise, reading, and continuously enhancing my coding toolbox.
 
